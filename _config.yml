@@ -1,5 +1,8 @@
-title: Surviving to Thriving - Geospatial Analysis
-theme: jekyll-theme-minimal
+title: Surviving to Thriving
 author: Benjamin P. Stewart
-description: Selected geospatial analysis in support of the forthcoming World Bank report on urbanization and climate
+email: bstewart@worldbank.org
+description: Understanding the link between urbanization and climate
 show_excerpts: false
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
