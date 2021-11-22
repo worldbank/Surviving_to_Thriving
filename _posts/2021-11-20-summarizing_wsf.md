@@ -11,5 +11,5 @@ The code used to summarize the WSF with theurban databases can be [found here](h
 
 ## Sample maps and Results
 # Washington DC
-<iframe width="500" height="400" frameborder="0" title="WSF map of Washington DC" src="https://raw.githubusercontent.com/worldbank/Surviving_to_Thriving/master/images/WSF_Map_Washington%20D.C..html"></iframe>
+<iframe width="500" height="400" frameborder="0" title="WSF map of Washington DC" src="//raw.githubusercontent.com/worldbank/Surviving_to_Thriving/master/images/WSF_Map_Washington%20D.C..html"></iframe>
 
