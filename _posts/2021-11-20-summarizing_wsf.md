@@ -10,8 +10,18 @@ At the World Bank, the Global Operational Support Team (GOST) have downloaded th
 The code used to summarize the WSF with theurban databases can be [found here](https://github.com/worldbank/Surviving_to_Thriving/blob/master/notebooks/ZON_URBAN_Global_SummarizeWSF.ipynb) .
 
 ## Sample maps and Results
-# Washington DC
+# Nairobi, Kenya
+<iframe width="700" height="500" frameborder="0" title="WSF map of Washington DC" src="https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Map_Nairobi.html"></iframe>
+
+![Halifax urban built-up](https://raw.githubusercontent.com/worldbank/Surviving_to_Thriving/gh-pages/media/WSF_Evolution_Nairobi.png)
+
+# Halifax, Nova Scotia, Canada
 <iframe width="700" height="500" frameborder="0" title="WSF map of Washington DC" src="https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Map_Halifax.html"></iframe>
 
-![Halifax urban built-up](https://github.com/worldbank/Surviving_to_Thriving/blob/gh-pages/media/WSF_Evolution_Halifax.png)
+![Halifax urban built-up](https://raw.githubusercontent.com/worldbank/Surviving_to_Thriving/gh-pages/media/WSF_Evolution_Halifax.png)
+
+# Washington, D.C.
+<iframe width="700" height="500" frameborder="0" title="WSF map of Washington DC" src="https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Map_Washington D.C..html"></iframe>
+
+![Halifax urban built-up](https://raw.githubusercontent.com/worldbank/Surviving_to_Thriving/gh-pages/media/WSF_Evolution_Washington D.C..png)
 
