@@ -1,5 +1,5 @@
 ---
-title: Surviving to Thriving
+title: "Exploring electrification statistics"
 ---
 
-Understanding the link between urbanization and climate is an increasingly important area of study...
+Trying this again. I'm glad you are here. I plan to talk about the electrification results from the [Global electrification Platform](https://electrifynow.energydata.info/)

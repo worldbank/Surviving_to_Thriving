@@ -1,5 +1,8 @@
-title: Surviving to Thriving - Geospatial Analysis
-theme: jekyll-theme-minimal
+title: GEP Data Science
 author: Benjamin P. Stewart
-description: Selected geospatial analysis in support of the forthcoming World Bank report on urbanization and climate
+email: bstewart@worldbank.org
+description: The Global Electrification Platform (GEP) - electrifynow.energydata.info - provides
+    high-level, least-cost electrification plans for 58 countries, comprising 90% of the world's
+    unelectrified population.
+theme: minima
 show_excerpts: false
