@@ -1,16 +1,5 @@
-# Book settings
-title: Project Template
-author: Development Data Partnership
-logo: images/logo.png
-
-repository:
-    url: https://github.com/datapartnership/template
-    branch: master  
-  
-html:
-    favicon: images/favicon.ico
-    home_page_in_navbar: true
-    use_edit_page_button: true
-    use_repository_button: true
-    use_issues_button: true
-    baseurl: https://datapartnership.org/
+title: Surviving to Thriving - Geospatial Analysis
+theme: jekyll-theme-minimal
+author: Benjamin P. Stewart
+description: Selected geospatial analysis in support of the forthcoming World Bank report on urbanization and climate
+show_excerpts: false
