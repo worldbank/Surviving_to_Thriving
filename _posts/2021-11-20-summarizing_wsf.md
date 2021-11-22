@@ -11,7 +11,7 @@ The code used to summarize the WSF with theurban databases can be [found here](h
 
 ## Sample maps and Results
 # Washington DC
-<iframe width="500" height="400" frameborder="0" title="WSF map of Washington DC" src="https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Map_Halifax.html"></iframe>
+<iframe width="700" height="500" frameborder="0" title="WSF map of Washington DC" src="https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Map_Halifax.html"></iframe>
 
-<iframe width="500" height="200" frameborder="0" title="WSF map of Washington DC" src="https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Evolution_Halifax.png"></iframe>
+![Halifax urban built-up](https://worldbank.github.io/Surviving_to_Thriving/media/WSF_Evolution_Halifax.png")
 
